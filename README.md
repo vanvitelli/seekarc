@@ -4,7 +4,7 @@ SeekArc project with Maria Rosaria
 
 ### SeekArc run reports 
 | Sample Name | Tissue type | Raw Report Link |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | CRC_P58H | Healthy colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P58H_report.html) |
 | CRC_P58T_reseq | Tumor colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_projects/CRC_P58T_reseq_report.html) |
 | CRC_P58T_merged | Tumor colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P58T_merged_report.html) |

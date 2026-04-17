@@ -11,7 +11,7 @@ SeekArc project with Maria Rosaria
 | CRC_P59H |  Healthy colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P59H_report.html) |
 | CRC_P59T | Tumor colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P59T_report.html) |
 | CRC_P61H |  Healthy colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P61H_report.html) |
-| CRC_P61T | Tumor | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P61T_report.html) |
+| CRC_P61T | Tumor colon | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/CRC_P61T_report.html) |
 | HCT116 | Tumor cell line | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/HCT116_report.html) |
 | HCT116_reseq | Tumor cell line | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/HCT116_reseq_report.html) |
 | HCT116_merged | Tumor cell line | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/HCT116_merged_report.html) |

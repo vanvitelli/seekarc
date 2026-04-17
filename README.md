@@ -16,4 +16,4 @@ SeekArc project with Maria Rosaria
 | HCT116_reseq | Tumor cell line | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/HCT116_reseq_report.html) |
 | HCT116_merged | Tumor cell line | [Download](https://raw.githubusercontent.com/vanvitelli/seekarc/main/html_reports/HCT116_merged_report.html) |
 
-> **Note:** To download these files, click "View Report," then right-click the **"Raw"** button (found in the top-right corner of the file preview) and select **"Save link as..."** to save the file to your computer.
+> **Note:** To download these files, right-click the **"Download"** link and select **"Save link as..."** to save the file to your computer.
